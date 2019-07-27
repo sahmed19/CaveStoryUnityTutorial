@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 987dcf092d02e8641ba6fc83719372b0, type: 3}
+  m_Name: Snake
+  m_EditorClassIdentifier: 
+  name: Snake
+  description: DESCRIPTION
+  sprite: {fileID: 21300092, guid: a6991b2b21d6ac04dbc1505544397545, type: 3}
+  handleOffsetX: -11
+  handleOffsetY: -3
+  shootablePrefab: {fileID: 0}
